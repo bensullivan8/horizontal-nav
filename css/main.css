@@ -13,19 +13,19 @@ body {
   background-color: #79756f;
   border-top: .1em solid #595652;
   border-bottom: .1em solid #595652;
-  margin: .6em;
+  margin: 0;
   text-align: center;
 }
 
 h1 {
-  font-family: Bevan, sans-serif;
+  font-family: 'Bevan', sans-serif;
   color: #fff;
   text-align: center;
 }
 
 a {
   padding: .5em;
-  display: inline-block;
+  display: inline;
   margin: .3em;
   color: #fff;
   list-style-type: none;
