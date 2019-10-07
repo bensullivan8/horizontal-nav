@@ -20,18 +20,18 @@ h1 {
   color: #fff;
   text-align: center;
   display: inline-block;
-  font-family: "Bevan", sans-serif;
+  font-family: Bevan, sans-serif;
 }
 
 a {
   padding: .5em;
-  display: inline;
   color: #fff;
   list-style-type: none;
   text-decoration: none;
   background-color: #713837;
   border-radius: .5em;
   display: inline-block;
+  font-family: sans-serif;
 }
 
 a:hover {
