@@ -23,10 +23,12 @@ h1 {
   font-family: Bevan, sans-serif;
 }
 
+li {
+  list-style-type: none;
+}
 a {
   padding: .6em;
   color: #fff;
-  list-style-type: none;
   text-decoration: none;
   background-color: #713837;
   border-radius: .4em;
