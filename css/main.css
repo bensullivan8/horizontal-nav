@@ -9,7 +9,6 @@ html {
 }
 
 body {
-  padding: .6em;
   background-color: #79756f;
   border-top: .1em solid #595652;
   border-bottom: .1em solid #595652;
@@ -18,10 +17,10 @@ body {
 }
 
 h1 {
-  font-family: Bevan;
   color: #fff;
   text-align: center;
   display: inline-block;
+  font-family: "Bevan", sans-serif;
 }
 
 a {
