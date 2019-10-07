@@ -23,10 +23,17 @@ h1 {
   text-align: center;
 }
 
-li {
+a {
   padding: .5em;
   display: inline-block;
   margin: .3em;
-  border-color: #f33;
+  color: #fff;
   list-style-type: none;
+  text-decoration: none;
+  background-color: #713837;
+  border-radius: .5em;
+}
+
+a:hover {
+  background-color: #f33;
 }
