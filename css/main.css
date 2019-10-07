@@ -32,6 +32,7 @@ a {
   border-radius: .4em;
   display: inline-block;
   font-family: sans-serif;
+  margin: auto;
 }
 
 a:hover {
